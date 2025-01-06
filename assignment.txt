@@ -1,0 +1,30 @@
+Give me some idea on what is a Data type. What are Primitive Data types and Non-Primitive Data types. Explain with some examples.
+ans:
+Data type:Data types is used to define what kind of data used in the variables.
+  Typeof() : used to define datatype.
+1.String: sequence of characters stored within double quotes/single quotes.
+2.Boolean: True/False.
+3.Number: integers, float, decimal, exponential etc. 
+
+Primitive Datatypes:
+It can store single values.
+It is immutable
+Number 
+String 
+Boolean
+Undefined
+Null
+Big int
+Non-Primitive Data types:
+It can store multiple values
+It is mutuable
+Class
+Object 
+Functions
+Array 
+Map 
+Set
+
+
+
+
