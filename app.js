@@ -1,4 +1,4 @@
-var a = 10; //global
+var a  =10; //global
 
 let b =20;//script
 const c =30;//script
@@ -41,7 +41,7 @@ console.log(num2 , typeof(num2));
 let num3 = 10e3;
 console.log(num3 , typeof(num3));
 
-let a;
+let a ;
 console.log(a, typeof(a));
 
 letx = null;
